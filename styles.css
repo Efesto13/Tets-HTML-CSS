@@ -419,7 +419,7 @@ body{
     position: relative;
     background-color: var(--background_1-color--);
     border-radius: 10px;
-    width: 10rem;
+    width: 23rem;
     transform: translateY(-7rem);
 }
 
